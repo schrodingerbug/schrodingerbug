@@ -4,7 +4,7 @@ As a certain space man once said..
 
 I am Schrodinger's Bug 🧪🐛
 
-All of my repositorys are ABSOLUTE CODE✋😏🤚
+All of my repositories are ABSOLUTE CODE✋😏🤚
 
 I am still a learning developer.
 
