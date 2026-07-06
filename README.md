@@ -8,10 +8,11 @@ All of my repositorys are ABSOLUTE CODE✋😏🤚
 
 I am still a learning developer.
 
-I know some CS,such as:
-  -Encoding/Decoding
-  -Cryptography/Ciphering
-  -SQL Injection
+I also know some CS.
+1.Encoding/Decoding
+2.Cryptography
+3.Ciphering
+4.SQL Injection
 
 I do not (yet) know a programming language FLUENTLY.
 
