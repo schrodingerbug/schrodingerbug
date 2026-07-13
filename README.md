@@ -6,7 +6,7 @@ I am Schrodinger's Bug 🧪🐛
 
 All of my repositories are ABSOLUTE CODE✋😏🤚
 
-I am still a learning developer.
+I am still a learning,solo developer.
 
 
 ## Computer Science Knowledge 🖥️
@@ -24,15 +24,14 @@ I know some CS,such as:
 
 ## Programming Knowledge </>
 
-I do not (yet) know a programming language FLUENTLY.
+I do not (yet) know a programming language fluently.
 
 However,I have experience with:
-  - Python
+  - Python(& libraries(Tkinter,random,os,etc.))
   - JavaScript
   - HTML + CSS 
   - Ruby
-  - GDScript (and the Godot ending as a whole)
-  - Experience with Python libraries [Tkinter,random,os,etc.]
+  - GDScript (and the Godot engine as a whole)
 
 ## CTF/Competition/Real-World Programming Experience 🚩
 
