@@ -1,10 +1,8 @@
-As a certain space man once said..
-
-## HELLO THERE! 🧔🏼
+## HELLO THERE!
 
 I am Schrodinger's Bug 🧪🐛
 
-All of my repositories are ABSOLUTE CODE✋😏🤚
+All of my repositories are I believe in their own way good.
 
 I am still a learning,solo developer.
 
@@ -45,8 +43,6 @@ In real life,I have also scored,as a team,52nd place out of 246 on a CTF.Highest
 So yeah.
 
 Thats me.
-
-The goal is to be better.I will.
 
 Insane that I only really made this entire account to upload one website..yet..
 
