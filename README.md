@@ -31,19 +31,3 @@ However,I have experience with:
   - Ruby
   - GDScript (and the Godot engine as a whole)
 
-## CTF/Competition/Real-World Programming Experience 🚩
-
-In real life,I have also scored,as a team,52nd place out of 246 on a CTF.Highest of my school.
-
-[Proof of that here{I am MFSJ}:https://saferinternet4kids.gr/sid/sid2026/ctf_scoreboard_2026/] 
-
-
-## CONCLUSION 🧪🐛
-
-So yeah.
-
-Thats me.
-
-Insane that I only really made this entire account to upload one website..yet..
-
-#### HERE WE ARE.
